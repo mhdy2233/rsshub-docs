@@ -97,6 +97,11 @@ const instances = [{
     location: '🇯🇵',
     maintainer: 'Vania',
     maintainerUrl: 'https://note.com/vania/',
+  }, {
+    url: 'https://rss.mhdy.shop',
+    location: '🇺🇸🇸🇬',
+    maintainer: '魔皇地狱',
+    maintainerUrl: 'https://mohuangdiyu.com',
   }
 ]
 
