@@ -107,6 +107,16 @@ const instances = [{
     location: '🇭🇰',
     maintainer: 'nesay',
     maintainerUrl: 'https://umzzz.com',
+  }, {
+    url: 'https://rsshub.mhdy.shop',
+    location: '🇸🇬',
+    maintainer: '魔皇地狱',
+    maintainerUrl: 'https://mohuangdiyu.com',
+  }, {
+    url: 'https://rss.mhdy.shop',
+    location: '🇺🇸',
+    maintainer: '魔皇地狱',
+    maintainerUrl: 'https://mohuangdiyu.com',
   }
 ]
 
